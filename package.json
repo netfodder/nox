@@ -1,0 +1,16 @@
+{
+  "name": "@netfodder/nox",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "nuxt.config.ts",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@libsql/client": "^0.3.6",
+    "nuxt": "^3.12.4",
+    "uncrypto": "^0.1.3",
+    "yup": "^1.2.0"
+  }
+}
